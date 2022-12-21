@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.7;
 
-contract VulnContract {
+contract RoadClosed {
 
     bool hacked;
     address owner;
