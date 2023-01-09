@@ -20,7 +20,7 @@ Join our Discord community by clicking [here](https://discord.com/invite/b7XVMcx
 
 | Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
 |---------|------------|-------------------|------------|---------| ---------|
-| 01.     | [Road Block](/challenges/solidity-security/road-block.sol) | Solidity Security | Easy     | 100      | *Coming Soon* |
+| 01.     | [Road Block](/challenges/solidity-security/road-block.sol) | Solidity Security | Easy     | 100      | [Link](https://daredevil.hashnode.dev/road-closed-walkthrough) |
 | 02.     | [VIP Bank](/challenges/solidity-security/vipBank.sol) | Solidity Security | Easy     | 100      | *Coming Soon* |
 | 03.     | [Confidential Hash](/challenges/solidity-security/confidentialHash.sol) | Solidity Security | Easy     | 100      | *Coming Soon* |
 | 04.     | [Safe NFT](/challenges/solidity-security/safeNFT.sol) | Solidity Security | Medium     | 200      | *Coming Soon* |
