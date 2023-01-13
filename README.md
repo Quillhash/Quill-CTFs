@@ -25,7 +25,7 @@ Join our Discord community by clicking [here](https://discord.com/invite/b7XVMcx
 | 03.     | [Confidential Hash](/challenges/solidity-security/confidentialHash.sol) | Solidity Security | Easy     | 100      | *Coming Soon* |
 | 04.     | [Safe NFT](/challenges/solidity-security/safeNFT.sol) | Solidity Security | Medium     | 200      | *Coming Soon* |
 | 05.     | [D31eg4t3](https://quillctf.super.site/challenges/quillctf-challenges/d31eg4t3) | Solidity Security | Easy | 100 | *Coming Soon* |
-
+| 06.     | [Collatz Puzzle](https://quillctf.super.site/challenges/quillctf-challenges/collatz-puzzle) | EVM | Hard | 300 | *Coming Soon* |
 
 ---
 
