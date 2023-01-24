@@ -20,12 +20,14 @@ Join our Discord community by clicking [here](https://discord.com/invite/b7XVMcx
 
 | Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
 |---------|------------|-------------------|------------|---------| ---------|
-| 01.     | [Road Block](/challenges/solidity-security/road-block.sol) | Solidity Security | Easy     | 100      | [Link](https://daredevil.hashnode.dev/road-closed-walkthrough) |
-| 02.     | [VIP Bank](/challenges/solidity-security/vipBank.sol) | Solidity Security | Easy     | 100      | *Coming Soon* |
-| 03.     | [Confidential Hash](/challenges/solidity-security/confidentialHash.sol) | Solidity Security | Easy     | 100      | *Coming Soon* |
-| 04.     | [Safe NFT](/challenges/solidity-security/safeNFT.sol) | Solidity Security | Medium     | 200      | *Coming Soon* |
+| 01.     | [Road Block](https://quillctf.super.site/challenges/quillctf-challenges/road-closed) | Solidity Security | Easy     | 100      | [Link](https://daredevil.hashnode.dev/road-closed-walkthrough) |
+| 02.     | [VIP Bank](https://quillctf.super.site/challenges/quillctf-challenges/vip-bank) | Solidity Security | Easy     | 100      | *Coming Soon* |
+| 03.     | [Confidential Hash](https://quillctf.super.site/challenges/quillctf-challenges/ctf02) | Solidity Security | Easy     | 100      | *Coming Soon* |
+| 04.     | [Safe NFT](https://quillctf.super.site/challenges/quillctf-challenges/bulletproof-nft) | Solidity Security | Medium     | 200      | *Coming Soon* |
 | 05.     | [D31eg4t3](https://quillctf.super.site/challenges/quillctf-challenges/d31eg4t3) | Solidity Security | Easy | 100 | *Coming Soon* |
 | 06.     | [Collatz Puzzle](https://quillctf.super.site/challenges/quillctf-challenges/collatz-puzzle) | EVM | Hard | 300 | *Coming Soon* |
+| 07.     | [True Xor](https://quillctf.super.site/challenges/quillctf-challenges/true-xor) | EVM | Hard | 300 | *Coming Soon* |
+| 08.     | [Pelusa](https://quillctf.super.site/challenges/quillctf-challenges/pelusa) | Solidity Security | Medium | 200 | *Coming Soon* |
 
 ---
 
