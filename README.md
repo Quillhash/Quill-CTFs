@@ -10,7 +10,7 @@ The challenges contain several of the most common vulnerabilities found in Ether
 
 ### How to submit the solution:
 Fill out the below submission form with Vulnerability details and a solution to CTF:   
-[https://quillaudits.typeform.com/QuillCTF](https://quillaudits.typeform.com/QuillCTF)
+[QuillCTF-Submit](https://quillaudits.typeform.com/QuillCTF#task=submit-solution)
 
 ### QuillAudits CTF community at Discord:
 We have Discord channels for CTFs for users to discuss the challenges and ask questions. This provides a great opportunity for CTF players to learn from each other and share ideas.   
