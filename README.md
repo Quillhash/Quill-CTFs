@@ -14,7 +14,7 @@ Fill out the below submission form with Vulnerability details and a solution to 
 
 ### QuillAudits CTF community at Discord:
 We have Discord channels for CTFs for users to discuss the challenges and ask questions. This provides a great opportunity for CTF players to learn from each other and share ideas.   
-Join our Discord community by clicking [here](https://discord.com/invite/b7XVMcxD).
+Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 
 ## Challenges:
 
