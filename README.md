@@ -35,6 +35,7 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 13.     | [💰 Donate](https://quillctf.super.site/challenges/quillctf-challenges/donate) | DeFi Security | Easy | 100 | [Link](https://infosecwriteups.com/quillaudit-ctf-challenges-writeups-fd5d38f010a4) |
 | 14.     | [🛅 Moloch's Vault](https://quillctf.super.site/challenges/quillctf-challenges/molochs-vault) | DeFi Security | Hard | 300 | *Coming Soon* |
 | 15.     | [🧮 Slot Puzzle](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | *Coming Soon* |
+| 16.     | [🪙 Gold NFT](https://quillctf.super.site/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | *Coming Soon* |
 
 ---
 
