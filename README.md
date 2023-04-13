@@ -33,9 +33,9 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 11.     | [🐼 Panda Token](https://academy.quillaudits.com/challenges/quillctf-challenges/panda-token) | Solidity Security | Medium | 200 | [Link](https://github.com/lmanini/QuillCTF-solutions/tree/main/PandaToken) |
 | 12.     | [💠 WETH-11](https://academy.quillaudits.com/challenges/quillctf-challenges/weth-11) | DeFi Security | Medium | 200 | [Link](https://infosecwriteups.com/quillaudit-ctf-challenges-writeups-fd5d38f010a4) |
 | 13.     | [💰 Donate](https://academy.quillaudits.com/challenges/quillctf-challenges/donate) | DeFi Security | Easy | 100 | [Link](https://infosecwriteups.com/quillaudit-ctf-challenges-writeups-fd5d38f010a4) |
-| 14.     | [🛅 Moloch's Vault](https://academy.quillaudits.com/challenges/quillctf-challenges/molochs-vault) | DeFi Security | Hard | 300 | *Coming Soon* |
-| 15.     | [🧮 Slot Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | *Coming Soon* |
-| 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | *Coming Soon* |
+| 14.     | [🛅 Moloch's Vault](https://academy.quillaudits.com/challenges/quillctf-challenges/molochs-vault) | DeFi Security | Hard | 300 | [Link](https://infosecwriteups.com/quillaudit-ctf-challenges-writeups-fd5d38f010a4)  |
+| 15.     | [🧮 Slot Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/slot-puzzle.md)  |
+| 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/goldnft.md)  |
 | 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | *Coming Soon* |
 | 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | Solidity Security | Medium | 200 | *Coming Soon* |
 
