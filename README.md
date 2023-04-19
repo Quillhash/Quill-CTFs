@@ -37,7 +37,8 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 15.     | [🧮 Slot Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/slot-puzzle.md)  |
 | 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/goldnft.md)  |
 | 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | *Coming Soon* |
-| 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | Solidity Security | Medium | 200 | *Coming Soon* |
+| 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | *Coming Soon* |
+| 19.     | [🙈 Predictable NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/predictable-nft) | Solidity Security | Easy | 100 | *Coming Soon* |
 
 ---
 
