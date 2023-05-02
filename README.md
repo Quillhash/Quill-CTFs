@@ -39,15 +39,17 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | *Coming Soon* |
 | 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | *Coming Soon* |
 | 19.     | [🙈 Predictable NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/predictable-nft) | Solidity Security | Easy | 100 | *Coming Soon* |
+| 20.     | [📇 Voting Machine](https://academy.quillaudits.com/challenges/quillctf-challenges/voting-machine) | DeFi Security | Medium | 200 | *Coming Soon* |
+| 21.     | [🕺 Private Club](https://academy.quillaudits.com/challenges/quillctf-challenges/private-club) | DeFi Security | Easy | 100 | *Coming Soon* |
 
 ---
 
 ## About Us:
 QuillAudits is a Leading smart contract audit firm committed to securing Blockchain projects with cutting-edge Web3 security solutions. QuillAudits is well-equipped with tools and expertise to provide cybersecurity solutions saving the loss of millions in funds.
 
-**🌐  [Website](https://audits.quillhash.com/smart-contract-audit)**   
+**🌐  [Website](https://quillaudits.com)**   
 **👨‍💻  [Clients & Partners](https://audits.quillhash.com/clients-and-partners)**    
-**✍️  [Blog](https://blog.quillhash.com/)**   
+**✍️  [Blog](https://blog.quillaudits.com/)**   
 **📑  [Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)**   
 **📩 [Telegram](https://t.me/quillaudits_official)**     
 **📨 [Twitter](https://twitter.com/QuillAudits)**   
