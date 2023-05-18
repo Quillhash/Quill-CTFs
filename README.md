@@ -1,6 +1,6 @@
-## QuillCTF: Unlock your web3 security skills
+# QuillCTF: Unlock your web3 security skills
 
-## Why **QuillAudits CTF?**
+### Why **QuillAudits CTF?**
 
 Quill CTF is a game in which you hack Ethereum smart contracts to learn about security. It's meant to be both fun and educational. The game is designed to educate players on how to identify and fix security issues in Ethereum smart contracts.
 
@@ -16,7 +16,9 @@ Fill out the below submission form with Vulnerability details and a solution to 
 We have Discord channels for CTFs for users to discuss the challenges and ask questions. This provides a great opportunity for CTF players to learn from each other and share ideas.   
 Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 
-## Challenges:
+---
+
+## QuillCTF Challenges:
 
 | Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
 |---------|------------|-------------------|------------|---------| ---------|
@@ -36,11 +38,33 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 14.     | [🛅 Moloch's Vault](https://academy.quillaudits.com/challenges/quillctf-challenges/molochs-vault) | DeFi Security | Hard | 300 | [Link](https://infosecwriteups.com/quillaudit-ctf-challenges-writeups-fd5d38f010a4)  |
 | 15.     | [🧮 Slot Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/slot-puzzle.md)  |
 | 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/goldnft.md)  |
-| 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | *Coming Soon* |
-| 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | *Coming Soon* |
-| 19.     | [🙈 Predictable NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/predictable-nft) | Solidity Security | Easy | 100 | *Coming Soon* |
+| 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | [Link](https://caglankaan.com/blog/pseudorandom) |
+| 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/InvestPool/writeup.md) |
+| 19.     | [🙈 Predictable NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/predictable-nft) | Solidity Security | Easy | 100 | [Link](https://aviksaikatka-blog-posts.netlify.app/quillctf/predictable-nft/) |
 | 20.     | [📇 Voting Machine](https://academy.quillaudits.com/challenges/quillctf-challenges/voting-machine) | DeFi Security | Medium | 200 | *Coming Soon* |
 | 21.     | [🕺 Private Club](https://academy.quillaudits.com/challenges/quillctf-challenges/private-club) | DeFi Security | Easy | 100 | *Coming Soon* |
+
+---
+
+# Collaboration Challenges
+## QuillCTF X QuickSwap
+| Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
+|---------|------------|-------------------|------------|---------| ---------|
+| 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/quillctf-x-quickswap/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/Arbitrage/writeup.md) |
+
+## QuillCTF X Router Protocol
+| Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
+|---------|------------|-------------------|------------|---------| ---------|
+| 01.     | [🔰 assertEqual](https://academy.quillaudits.com/challenges/quillctf-x-router-protocol/assertequal) | EVM | Hard     | 300      | *Coming Soon* |
+
+---
+
+## Physical CTFs
+These challenges are created for various institutions as a part of their physical CTFs, and no points will be awarded on QuillCTF’s Leaderboard for solving these CTFs. These challenges are only intended for participants from the respective institution's event.
+| Sl. No.  | Challenge  |  Difficulty | College/ Institutions | 
+|-|-|-|-|
+| 01. | [Private Flag](https://academy.quillaudits.com/challenges/private-flag) | Easy | IIIT-R | 
+| 02. | [Access Denied](https://academy.quillaudits.com/challenges/access-denied) | Easy | IIIT-R | 
 
 ---
 
