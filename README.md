@@ -47,13 +47,13 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 ---
 
 # Collaboration Challenges
-## QuillCTF
-| Sl. No.  | Challenge  | Type              | Difficulty | Points |  Solutions | Partner |
+## QuillCTF X QuickSwap
+| Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
 |---------|------------|-------------------|------------|---------| ---------|
-| 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/Arbitrage/writeup.md) | [QuickSwap](https://quickswap.exchange/) |
-| 02.     | [🔰 assertEqual](https://academy.quillaudits.com/challenges/assertequal) | EVM | Hard     | 300      | *Coming Soon* | [Router Protocol](https://www.routerprotocol.com/) |
-| 03.     | [👥 Collect](https://academy.quillaudits.com/challenges/collect) | EVM | Medium     | 200      | *Coming Soon* | [Dapps.co](https://dapps.co/) |
-| 04.     | [👥 NFTBANK](https://academy.quillaudits.com/challenges/nftbank) | EVM | Medium     | 300      | *Coming Soon* | [Lumos Labs](https://www.lumoslabs.co/) |
+| 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/quillctf-x-quickswap/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/Arbitrage/writeup.md) |
+
+## QuillCTF X Router Protocol
+| Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
 
 ---
 
