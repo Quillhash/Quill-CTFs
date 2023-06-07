@@ -50,7 +50,6 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 ## QuillCTFxPartnership
 | Sl. No.  | Challenge  | Type              | Difficulty | Points |  Solutions | Partner |
 |---------|------------|-------------------|------------|---------| ---------|-----------|
-| 01.     | [🔰 assertEqual](https://academy.quillaudits.com/challenges/quillctf-x-router-protocol/assertequal) | EVM | Hard     | 300      | *Coming Soon* |
 | 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/Arbitrage/writeup.md) | [QuickSwap](https://quickswap.exchange/) |
 | 02.     | [🔰 assertEqual](https://academy.quillaudits.com/challenges/assertequal) | EVM | Hard     | 300      | *Coming Soon* | [Router Protocol](https://www.routerprotocol.com/) |
 | 03.     | [👥 Collect](https://academy.quillaudits.com/challenges/collect) | EVM | Medium     | 200      | *Coming Soon* | [Dapps.co](https://dapps.co/) |
