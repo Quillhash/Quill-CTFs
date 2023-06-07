@@ -47,7 +47,7 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 ---
 
 # Collaboration Challenges
-## QuillCTFxPartnership
+## QuillCTF_Partnership
 | Sl. No.  | Challenge  | Type              | Difficulty | Points |  Solutions | Partner |
 |---------|------------|-------------------|------------|---------| ---------|-----------|
 | 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/Arbitrage/writeup.md) | [QuickSwap](https://quickswap.exchange/) |
