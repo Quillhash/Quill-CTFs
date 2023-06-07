@@ -74,6 +74,6 @@ QuillAudits is a Leading smart contract audit firm committed to securing Blockch
 **🌐  [Website](https://quillaudits.com)**   
 **👨‍💻  [Clients & Partners](https://www.quillaudits.com/partners)**    
 **✍️  [Blog](https://blog.quillaudits.com/)**   
-**📑  [Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)**   
+**📑  [Audit Reports](https://www.quillaudits.com/leaderboard)**   
 **📩 [Telegram](https://t.me/quillaudits_official)**     
 **📨 [Twitter](https://twitter.com/QuillAudits)**     
