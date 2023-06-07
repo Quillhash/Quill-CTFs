@@ -72,9 +72,8 @@ These challenges are created for various institutions as a part of their physica
 QuillAudits is a Leading smart contract audit firm committed to securing Blockchain projects with cutting-edge Web3 security solutions. QuillAudits is well-equipped with tools and expertise to provide cybersecurity solutions saving the loss of millions in funds.
 
 **🌐  [Website](https://quillaudits.com)**   
-**👨‍💻  [Clients & Partners](https://audits.quillhash.com/clients-and-partners)**    
+**👨‍💻  [Clients & Partners](https://www.quillaudits.com/partners)**    
 **✍️  [Blog](https://blog.quillaudits.com/)**   
 **📑  [Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)**   
 **📩 [Telegram](https://t.me/quillaudits_official)**     
-**📨 [Twitter](https://twitter.com/QuillAudits)**   
-**🧑‍💻 [Telegram](http://t.me/QuillAudits)**   
+**📨 [Twitter](https://twitter.com/QuillAudits)**     
