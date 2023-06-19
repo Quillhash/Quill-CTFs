@@ -39,10 +39,12 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 15.     | [🧮 Slot Puzzle](https://academy.quillaudits.com/challenges/quillctf-challenges/slot-puzzle) | Solidity Security | Hard | 300 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/slot-puzzle.md)  |
 | 16.     | [🪙 Gold NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/gold-nft) | Solidity Security | Medium | 200 | [Link](https://github.com/Kaiziron/quill-ctf-writeup/blob/main/goldnft.md)  |
 | 17.     | [🎲 PseudoRandom](https://academy.quillaudits.com/challenges/quillctf-challenges/pseudorandom) | Solidity Security | Easy | 100 | [Link](https://caglankaan.com/blog/pseudorandom) |
-| 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/InvestPool/writeup.md) |
+| 18.     | [📈 Invest Pool](https://academy.quillaudits.com/challenges/quillctf-challenges/invest-pool) | DeFi Security | Medium | 200 | [Link](https://j4x.tech/websites/quillctf/quillctf_invest_pool/) |
 | 19.     | [🙈 Predictable NFT](https://academy.quillaudits.com/challenges/quillctf-challenges/predictable-nft) | Solidity Security | Easy | 100 | [Link](https://aviksaikatka-blog-posts.netlify.app/quillctf/predictable-nft/) |
-| 20.     | [📇 Voting Machine](https://academy.quillaudits.com/challenges/quillctf-challenges/voting-machine) | DeFi Security | Medium | 200 | *Coming Soon* |
-| 21.     | [🕺 Private Club](https://academy.quillaudits.com/challenges/quillctf-challenges/private-club) | DeFi Security | Easy | 100 | *Coming Soon* |
+| 20.     | [📇 Voting Machine](https://academy.quillaudits.com/challenges/quillctf-challenges/voting-machine) | DeFi Security | Medium | 200 | [Link](https://caglankaan.com/blog/voting-machine)| 
+| 21.     | [🕺 Private Club](https://academy.quillaudits.com/challenges/quillctf-challenges/private-club) | DeFi Security | Easy | 100 | [Link](https://caglankaan.com/blog/private-club) |
+| 21.     | [⭐ Lottery](https://academy.quillaudits.com/challenges/quillctf-challenges/lottery) | EVM | Medium | 200 | *Coming Soon* |
+
 
 ---
 
@@ -50,11 +52,12 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 ## QuillCTF_Partnership
 | Sl. No.  | Challenge  | Type              | Difficulty | Points |  Solutions | Partner |
 |---------|------------|-------------------|------------|---------| ---------|-----------|
-| 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://github.com/J4X-98/Writeups/blob/main/Websites/QuillCTF/Arbitrage/writeup.md) | [QuickSwap](https://quickswap.exchange/) |
+| 01.     | [💸 Arbitrage](https://academy.quillaudits.com/challenges/arbitrage) | DeFi Security | Easy     | 100      | [Link](https://j4x.tech/websites/quillctf/quillctf_arbitrage/) | [QuickSwap](https://quickswap.exchange/) |
 | 02.     | [🔰 assertEqual](https://academy.quillaudits.com/challenges/assertequal) | EVM | Hard     | 300      | *Coming Soon* | [Router Protocol](https://www.routerprotocol.com/) |
-| 03.     | [👥 Collect](https://academy.quillaudits.com/challenges/collect) | EVM | Medium     | 200      | *Coming Soon* | [Dapps.co](https://dapps.co/) |
-| 04.     | [🎯 NFTBANK](https://academy.quillaudits.com/challenges/nftbank) | EVM | Hard     | 300      | *Coming Soon* | [Lumos Labs](https://www.lumoslabs.co/) |
-| 05.     | [📁 LicenseManager](https://academy.quillaudits.com/challenges/licensemanager) | EVM | Medium     | 200      | *Coming Soon* | [Airchains](https://www.airchains.io/) |
+| 03.     | [👥 Collect](https://academy.quillaudits.com/challenges/collect) | Defi Security | Medium     | 200      | *Coming Soon* | [Dapps.co](https://dapps.co/) |
+| 04.     | [🎯 NFTBANK](https://academy.quillaudits.com/challenges/nftbank) | Solidity Security | Hard     | 300      | *Coming Soon* | [Lumos Labs](https://www.lumoslabs.co/) |
+| 05.     | [📁 LicenseManager](https://academy.quillaudits.com/challenges/licensemanager) | Solidity Security | Medium     | 200      | *Coming Soon* | [Airchains](https://www.airchains.io/) |
+
 
 ---
 
