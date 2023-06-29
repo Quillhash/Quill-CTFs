@@ -44,6 +44,8 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 | 20.     | [📇 Voting Machine](https://academy.quillaudits.com/challenges/quillctf-challenges/voting-machine) | DeFi Security | Medium | 200 | [Link](https://caglankaan.com/blog/voting-machine)| 
 | 21.     | [🕺 Private Club](https://academy.quillaudits.com/challenges/quillctf-challenges/private-club) | DeFi Security | Easy | 100 | [Link](https://caglankaan.com/blog/private-club) |
 | 21.     | [⭐ Lottery](https://academy.quillaudits.com/challenges/quillctf-challenges/lottery) | EVM | Medium | 200 | *Coming Soon* |
+| 22.     | [🔑 KeyCraft](https://academy.quillaudits.com/challenges/quillctf-challenges/keycraft) | Solidity Security | Hard     | 300      | *Coming Soon* |
+| 23.     | [📱TemporaryVariable](https://academy.quillaudits.com/challenges/quillctf-challenges/temporaryvariable) | Solidity Security | Easy     | 100      | *Coming Soon* |
 
 
 ---
