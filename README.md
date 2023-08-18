@@ -22,7 +22,7 @@ Join our Discord community by clicking [here](https://discord.gg/b8y4Z8p7Qg).
 
 | Sl. No.  | Challenge  | Type              | Difficulty | Points  | Solutions |
 |---------|------------|-------------------|------------|---------| ---------|
-| 01.     | [🛣️ Road Block](https://academy.quillaudits.com/challenges/quillctf-challenges/road-closed) | Solidity Security | Easy     | 100      | [Link](https://daredevil.hashnode.dev/road-closed-walkthrough) |
+| 01.     | [🛣️ Road Block](https://academy.quillaudits.com/challenges/quillctf-challenges/road-closed) | Solidity Security | Easy     | 100      | [Link](https://dev.to/erhant/quillctf-1-road-closed-4afm) |
 | 02.     | [🏦 VIP Bank](https://academy.quillaudits.com/challenges/quillctf-challenges/vip-bank) | Solidity Security | Easy     | 100      | [Link](https://dev.to/erhant/quillctf-3-vip-bank-2km8) |
 | 03.     | [🔒 Confidential Hash](https://academy.quillaudits.com/challenges/quillctf-challenges/ctf02) | Solidity Security | Easy     | 100      | [Link](https://dev.to/erhant/quillctf-2-confidential-hash-5h0b) |
 | 04.     | [🛡️ Safe NFT](https://academy.quillaudits.com/quillctf-challenges/bulletproof-nft) | Solidity Security | Medium     | 200      | [Link](https://dev.to/erhant/quill-ctf-4-safe-nft-5699) |
